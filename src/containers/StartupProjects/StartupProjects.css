@@ -23,6 +23,7 @@
 .startup-project-text {
   display: flex;
   justify-content: space-between;
+
 }
 
 .project-card-description {
@@ -31,6 +32,10 @@
 .saaya-health-div,
 .nextu-div {
   cursor: pointer;
+  margin: 10px;
+  padding: 10px;
+  height: 200px;
+  width: 200px;
 }
 
 @media (max-width: 768px) {
@@ -41,4 +46,9 @@
     font-size: 16px;
     text-align: center;
   }
+}
+
+.proj {
+  padding: 10px;
+  margin: 10px;
 }

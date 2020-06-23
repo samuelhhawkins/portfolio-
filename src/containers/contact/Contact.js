@@ -14,7 +14,7 @@ export default function Contact() {
                     <p className="subTitle contact-subtitle">{contactInfo.subtitle}</p>
 
                     <div className="contact-text-div">
-                        <a className="contact-detail" href={"tel:" + contactInfo.number}>{contactInfo.number}</a>
+                        <a className="contact-detail" href={"tel:" + contactInfo.number}>4256383479</a>
                         <br/><br/>
                         <a className="contact-detail-email"
                            href={"mailto:" + contactInfo.email_address}>{contactInfo.email_address}</a>
