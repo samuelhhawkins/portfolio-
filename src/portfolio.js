@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Samuel Hawkins",
   title: "Hi all, I'm Sam",
-  subTitle: emoji("A passionate Software Developer 🚀 with experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries, frameworks, and languages."),
+  subTitle: emoji("A passionate Software Developer and Artist interested in making the web a better place for everyone  I have experience building Web and Mobile applications using JavaScript, Python, ReactJs, nodeJs, Django, and Flask along with a handful of Databases and other frameworks, libraries, and  languages. I love clean and documented code and strive to keep structured and easy to read files on my machine. I got into software because I saw the potential to learn something new almost everyday of my life and because of how fast everything changes! I learn best when I have a solid team around it always helps!"),
   resumeLink: "https://drive.google.com/file/d/1o5ufbgmuqBalLr6TX58M4frtvc5xwy9W/view?usp=sharing"
 };
 
@@ -26,7 +26,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
@@ -142,20 +142,26 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Projects",
   subtitle: "SOME OF MY LARGER PERSONAL PROJECTS/CONCEPTS. CHECK THEM OUT CARONA INVADERS ON THE LEFT IS A FUN LITTLE  VANILLA JS GAME! ",
   projects: [
     {
       image: require("./assets/images/3D9B79D5-A2B9-47A1-A779-FB7DF6BAA932.jpeg"),
-      link: "https://samuelhhawkins.github.io/project1/"
+      link: "https://samuelhhawkins.github.io/project1/",
+      txt: "Corona Invader— Space invaders copy cat with a CoronaVirus theme. Created using vanilla JS, HTML, CSS, p5JS"
+
     },
     {
       image: require("./assets/images/0CE88355-8738-4881-88B1-3B355C826D48.jpeg"),
-      link: "https://partake-project2.herokuapp.com/"
+      link: "https://partake-project2.herokuapp.com/",
+      txt: "Partake— art share/trade website. Created using ReactJS, Js, NodeJS, Postgres, HTML, CSS, Heroku "
+
     },
     {
       image: require("./assets/images/BA719974-493F-4887-A4B5-0AB94764BF5B.jpeg"),
-      link: "https://friend-hub.herokuapp.com/signup"
+      link: "https://friend-hub.herokuapp.com/signup",
+      txt: "FriendHub — Social media sharing website. Created using ReactJS, Js, mongoDB, HTML, CSS, Heroku"
+
     }
   ]
 };

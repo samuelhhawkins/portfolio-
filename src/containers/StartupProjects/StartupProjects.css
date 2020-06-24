@@ -9,7 +9,9 @@
 
 .starup-project-image > img {
   max-width: 100%;
-  height: auto;
+  
+  height: 300px;
+  width: 300px;
 }
 
 .project-card-head {
@@ -34,8 +36,8 @@
   cursor: pointer;
   margin: 10px;
   padding: 10px;
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
 }
 
 @media (max-width: 768px) {
@@ -51,4 +53,13 @@
 .proj {
   padding: 10px;
   margin: 10px;
+  color: black;
+  float: left;
+}
+
+#proj {
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  float: left;
 }
