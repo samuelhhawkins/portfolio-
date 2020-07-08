@@ -170,13 +170,13 @@ const bigProjects = {
 
 const achievementSection = {
 
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Education And Certifications 🏆 "),
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achivementsCards: [
     {
       title: "General Assembly SEI program",
-      subtitle: "Completed Certifcation from GA Software engineering Immersive",
+      subtitle: "Completed jFull-stack software engineering immersive student in an intensive, 12 week, 450+ hour program focused on product development fundamentals and OOD programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects.",
       image: "https://ga-shop-production-herokuapp-com.global.ssl.fastly.net/assets/images/logo_1200_by_627_1QIVL.jpg",
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/15uZwq22PkcQ3hRscuj_8XXO-6w1s1u5M/view?usp=sharing" },
