@@ -162,6 +162,12 @@ const bigProjects = {
       link: "https://friend-hub.herokuapp.com/signup",
       txt: "FriendHub — Social media sharing website. Created using ReactJS, Js, mongoDB, HTML, CSS, Heroku"
 
+    },
+    {
+      image: require("./assets/images/Screen Shot 2021-01-21 at 1.32.20 PM.png"),
+      link: "http://www.sbmcslip13.com/",
+      txt: "Created a website for slip 13 at Salmon Bay Marine Club. This is a large yaht slip, private client trying to get rid of their real estate. Used Vanilla JS HTML CSS."
+
     }
   ]
 };
