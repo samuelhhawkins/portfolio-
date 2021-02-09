@@ -116,18 +116,18 @@ const techStack = {
 
 // Your top 3 work experiences
 
-const workExperiences = {
-  viewExperiences: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "Software Engineer Imersive",
-      company: "General Assembly",
-      companylogo: require("./assets/images/GA.png"),
-      date: "March 2020 – June 2020",
-      desc: "Immersive full time Software engineering and web development program. Fo"
-    },
-  ]
-};
+// const workExperiences = {
+//   viewExperiences: true, //Set it to true to show workExperiences Section
+//   experience: [
+//     {
+//       role: "Software Engineer Imersive",
+//       company: "General Assembly",
+//       companylogo: require("./assets/images/GA.png"),
+//       date: "March 2020 – June 2020",
+//       desc: "Immersive full time Software engineering and web development program. Fo"
+//     },
+//   ]
+// };
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -182,7 +182,7 @@ const achievementSection = {
   achivementsCards: [
     {
       title: "General Assembly SEI program",
-      subtitle: "Completed jFull-stack software engineering immersive student in an intensive, 12 week, 450+ hour program focused on product development fundamentals and OOD programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects.",
+      subtitle: "Completed Full-stack software engineering immersive student in an intensive, 12 week, 450+ hour program focused on product development fundamentals and OOD programming, MVC frameworks, data modeling, and team collaboration strategies. Developed a portfolio of individual and group projects.",
       image: "https://ga-shop-production-herokuapp-com.global.ssl.fastly.net/assets/images/logo_1200_by_627_1QIVL.jpg",
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/15uZwq22PkcQ3hRscuj_8XXO-6w1s1u5M/view?usp=sharing" },
